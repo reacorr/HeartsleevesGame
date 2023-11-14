@@ -1,0 +1,74 @@
+[gd_scene load_steps=11 format=3 uid="uid://cpenx0lqpe77u"]
+
+[ext_resource type="Texture2D" uid="uid://dnp40j1lxvrms" path="res://cafe-wiithout-alex.png" id="1_h5vac"]
+[ext_resource type="Script" path="res://cafe.gd" id="1_jmhvv"]
+[ext_resource type="Texture2D" uid="uid://dut0rwqtn7a1a" path="res://alexnormal.png" id="2_sddvu"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_midf4"]
+atlas = ExtResource("1_h5vac")
+region = Rect2(0, 0, 100, 100)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_e06r6"]
+atlas = ExtResource("1_h5vac")
+region = Rect2(100, 0, 100, 100)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_mcewv"]
+atlas = ExtResource("1_h5vac")
+region = Rect2(200, 0, 100, 100)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_h44bj"]
+atlas = ExtResource("1_h5vac")
+region = Rect2(300, 0, 100, 100)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_panm1"]
+atlas = ExtResource("1_h5vac")
+region = Rect2(400, 0, 100, 100)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_qtcyr"]
+atlas = ExtResource("1_h5vac")
+region = Rect2(500, 0, 100, 100)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_p7511"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_midf4")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_e06r6")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_mcewv")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_h44bj")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_panm1")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_qtcyr")
+}],
+"loop": true,
+"name": &"cafe animation",
+"speed": 1.0
+}]
+
+[node name="CAFE" type="Node2D"]
+script = ExtResource("1_jmhvv")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+texture_filter = 1
+position = Vector2(570, 322)
+scale = Vector2(6.48, 6.48)
+sprite_frames = SubResource("SpriteFrames_p7511")
+animation = &"cafe animation"
+autoplay = "cafe animation"
+frame = 3
+frame_progress = 0.0605117
+
+[node name="Alexnnormal" type="Sprite2D" parent="."]
+texture_filter = 1
+position = Vector2(634, 357.297)
+scale = Vector2(7.772, 7.772)
+texture = ExtResource("2_sddvu")

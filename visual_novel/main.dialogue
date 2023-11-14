@@ -1,0 +1,142 @@
+
+
+~ start
+
+Date: "Hey! It's nice to meet you."
+	You: It's been over an hour, and then he just shows up? Should I say something about how late he is? He doesn't seem remorseful at all...
+	- Stay silent 
+		You: I won't say anything. It's fine I guess. At least he seems decent.
+		You: "Nice to meet you too..uhh"
+		You: CRAP, what was his name again? J- something or A- something"
+	- Say something 
+		You: "Hey. I thought we agreed to meet an hour ago?"
+		Date: "Oh, my bad. There was traffic."
+		You: "I see...Um well it's nice to meet you too...uhhhh"
+		You: CRAP, what was his name again?
+
+	You: "Nice to meet you too _____"
+	- Charlie!
+		You: "Nice to meet you too...Charlie!"
+		Alex: "...its alex"
+		You: "Oh, yeah sorry about that heh...."
+		"Are you dumb or something?"
+		You: "Excuse me?!"
+		Alex: "I said it's okay that you forgot my name, it's a pretty common one. Have you ordered yet?”
+		You: "Oh, no I haven't yet"
+	- Alex! 
+		You: "Nice to meet you too...Alex!"
+		Alex: "Yeah definitely! Have you ordered yet?"
+		You: "No I haven't yet"
+	You look at the menu 
+	You: What kind of cafe only sells salad and burgers? Luckily I like burgers, but what will Alex think? Should I go with a salad to seem more healthy? 
+	- Get a salad
+		You: "I’ll get a salad. Can't be building up those calories ha ha” 
+		Alex: “Cool, i’ll get a burger.” 
+		You: Oh…he ended up getting a burger for himself anyways… 
+	- Get a burger
+		You: “I’ll get a burger actually!”
+		“Are you sure about that? A burger has a lot of calories right?”
+		You: “What” 
+		Alex: “Um…I said I’m getting a burger too!” 
+		You: Hmm am I hearing things?
+	You: ...
+	Alex: ...
+
+	You: Well this is awkward. Maybe I should think of something to talk about.
+	- Make a joke
+		You: "So...want to hear a joke?"
+		Alex: "Oh, yeah I love jokes."
+		You: "Neat! Here is a favorite of mine..""
+		- "Your mom's so ugly she made a blind kid cry."
+			Alex: "............my mom just died last year"
+			You: "Oh my goodness. I'm so so sorry."
+			"Who knew you could be so insensitive?"
+			You: "I said I was sorry, I didn't know...."
+			Alex: "Um, I said it was okay already? Anyways, I do miss her but I've healed over time. I just remember the fun times we would spend working on  cars."
+			You: "Cars?"
+			Alex: "YES, it is a big hobby of mine. Did you kno-"
+		- "Hey do you want to hear a joke about corn? Nevermind, it's too corny!"
+			Alex: "Oh haha, good one."
+			You: "Not funny huh."
+			"No, it wasn't. Who knew you sucked at making conversation?"
+			You: "Jeez, I know I'm not a comedian"
+			Alex: "Hey, there's no harm to that! My mom wasn't either, she definitely knew her cars though."
+			You: "Cars?"
+			Alex: "Oh yeah! It is a big hobby we would do together. Did you kno-"
+	- Ask Alex about his hobbies
+		You: "So what are your hobbies?"
+		Alex: "Oh I like to work with cars actually!"
+		You: "Oh really?"
+		Alex: "Yeah, did you kno-"
+		
+	Food arrives 
+		You: Finally the food has arrived! That was so awkward and I'm starving…Wait…maybe I should watch how I eat in front of alex. I don’t want to freak him out or anything.
+		Alex: "Anyways, as I was saying, did you know the newest car model, STI-28 is—”
+			- Eat?
+				You take a bite 
+			- No, just listen.
+	Alex: "This is why there's so much controversy on this model because-"
+	- Eat again?
+		You take another bite 
+	- No, continue listening.
+	Alex: "I remember the day my mom gave me my first tool set.."
+	- Finish food?
+		You finish your food
+		"Did you just inhale your food?”
+		You: “Uhh, what about it?” 
+		“Nothing. I just didn’t think you’d be the type…”
+		You: “The type to what? To enjoy my food?!”
+		“Dude. Don’t get all defensive. I was just saying i didnt think youd be such a messy eater”
+		You: “Shut up!” 
+		Alex: “----good right?”
+		You: “Huh? Wait, what did you say?”
+		Alex: “I said the food is good right? I finished mine quickly too”
+		You: "Oh, yeah"
+	- No, listen to Alex.
+		Your food goes cold.
+		Alex: "Uhh Are you okay? You haven’t taken a bite of your food yet.”
+		You: “Oh. I’m okay. I just don’t have much of an appetite.”
+		“If you aren’t enjoying this date just say so.” 
+		You: “Hahaha what? I am, I was just paying attention to what you were saying!”
+		“Yeah right, you just think you're too good, right?” 
+		You: “What? NO!”
+		Alex: “Umm, I didn’t say anything? Sorry, I must be boring you with what I am talking about right?”
+		You: Ugh im hearing things again 
+		You: “No you aren’t at all just a little tired haha” 
+	Waiter: "Here is the check. I hope you guys enjoyed the food!"
+	- Offer to pay 
+		You: "Hey, let me get the check"
+		Alex: "No, I should! I'm the one who asked you out today"
+		You: "Okay, if you don't mind"
+		"Actually, I do mind. Your not even going to ask one more time?"
+		You: "What?! If your gonna be rude about it just let me pay then."
+		Alex: "Uhh, I said I don't mind at all. Really, it's nothing."
+		You: "..thank you."
+	- Let Alex pay 
+		You glance at the check.
+		You: ...
+		Alex glances at the check. 
+		Alex: ...
+		Alex: "uhh let me get the check"
+		"You could've at least pretended to look for your wallet or offered to pay. Didn't think you would be such a cheapskate."
+		You: "What?! If your gonna be rude about it just let me pay then."
+		Alex: "Uhh, I said I don't mind at all. Really, it's nothing."
+		You: "..thank you.""
+	Alex pays.
+	Alex: "It was great to meet you today."
+	You: "Same with me here"
+	- hug Alex goodbye
+		(Simple Ending)
+		You: "I'll see you. Goodbye!"
+		Alex: "Yeah goodbye."
+	- dab Alex up 
+		(New Best Buds Ending)
+		You: "I'll see around, dude"
+		Alex: "Uh, sure yeah."
+	- kiss Alex on the cheek
+		(Good ending?)
+		Alex: "I'd love to plan another date with you, just let me know!"
+		You: "I will. Goodbye"
+
+	
+=> END 
